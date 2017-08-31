@@ -16,3 +16,4 @@ if __name__=="__main__":
     A=input("Give me a order").strip(' ').split()
     list=[int(x) for x in A]
     print(order(list))
+    print(A)
