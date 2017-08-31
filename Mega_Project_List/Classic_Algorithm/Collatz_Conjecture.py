@@ -21,3 +21,4 @@ if __name__=='__main__':
         os._exit(0)
     number=int(number)
     print(reach(number))
+    print(number)
