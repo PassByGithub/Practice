@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9fb8ace-079a-4520-894f-202436aafe52" name="Default" comment="">
+    <list default="true" id="f9fb8ace-079a-4520-894f-202436aafe52" name="Default" comment="8.31">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mega_Project_List/Classic_Algorithm/BubbleSort.py" afterPath="$PROJECT_DIR$/Mega_Project_List/Classic_Algorithm/BubbleSort.py" />
     </list>
@@ -17,8 +17,8 @@
       <file leaf-file-name="BubbleSort.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Mega_Project_List/Classic_Algorithm/BubbleSort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="361">
+              <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -106,6 +106,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f9fb8ace-079a-4520-894f-202436aafe52" name="Default" comment="" />
@@ -114,6 +117,28 @@
       <option name="presentableId" value="Default" />
       <updated>1504158718628</updated>
     </task>
+    <task id="LOCAL-00001" summary="8.31">
+      <created>1504165528245</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1504165528245</updated>
+    </task>
+    <task id="LOCAL-00002" summary="8.31">
+      <created>1504165630416</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1504165630416</updated>
+    </task>
+    <task id="LOCAL-00003" summary="8.31">
+      <created>1504165650960</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1504165650960</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -147,6 +172,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="8.31" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.31" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -173,8 +202,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Mega_Project_List/Classic_Algorithm/BubbleSort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="361">
+          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
           <folding />
         </state>
       </provider>

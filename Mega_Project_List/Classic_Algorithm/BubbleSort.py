@@ -19,4 +19,4 @@ if __name__=="__main__":
     print(order(list))
     print(A)
     print(A)
-    
+    print(B)
