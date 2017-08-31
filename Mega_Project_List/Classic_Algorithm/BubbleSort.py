@@ -17,3 +17,4 @@ if __name__=="__main__":
     list=[int(x) for x in A]
     print(order(list))
     print(A)
+    print(A)
